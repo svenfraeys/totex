@@ -5,6 +5,16 @@ totex
 
 ToTex" is a render to texture script that gives you the ability to quickly bake multiple textures to a folder. ToTex will start baking all the selected objects with the chose selections and will save it to the specified folder
 
+How to Install
+==============
+
+- Download the repository as a zip
+- rename the zip extensio to .mzp extension
+- Drag the mzp in 3ds max viewport and the installer will pop up
+
+Features
+========
+
 New features (3.0):
 
  
