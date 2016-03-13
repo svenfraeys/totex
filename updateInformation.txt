@@ -1,0 +1,15 @@
+2011-09-18
+- Fixed Browse For Save Directory
+2011-09-17
+- DLL fix
+- Beta ToTex 3.0 has started
+2011-09-14
+- UI Interactivity - Hover graphics, Tooltips
+- UI : "+"-sign left mouse click
+- Updated Grad Top Down
+- Confiugration Added : MaxMerge, Render Preset
+2011-08-27
+- Improved Auto Update Installer
+- Added Thumb View
+- Styling Layout
+- Color schemes improved

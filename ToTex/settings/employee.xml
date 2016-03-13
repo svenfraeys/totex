@@ -1,0 +1,9 @@
+< ?xml version="1.0" encoding="UTF-8" ?> 
+	<company>
+		<employee id="001" >John</employee>
+		<turnover>
+			<year id="2000">100,000</year>
+			<year id="2001">140,000</year>	
+			<year id="2002">200,000</year>
+		</turnover>
+	</company>

@@ -1,0 +1,10 @@
+name "Test"
+version 3.80
+
+run "mzpInstall.ms"
+drop "mzpInstall.ms"
+
+clear temp on MAX exit
+clear temp on reset
+
+--MaxScriptManager compatible

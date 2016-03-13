@@ -1,0 +1,1 @@
+m_ToTex_Bake.SetProjection true
